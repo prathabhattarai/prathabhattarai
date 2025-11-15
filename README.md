@@ -20,7 +20,6 @@
 
 ## 📫 Connect With Me
 📧 Email: prathabhattarai2@gmail.com 
-💼 LinkedIn: [Your LinkedIn](#)
 
 ---
 
