@@ -11,13 +11,6 @@
 
 ---
 
-
-
-## 📊 GitHub Stats
-![Pratha's GitHub stats](https://github-readme-stats.vercel.app/api?username=prathabhattarai&show_icons=true)
-
----
-
 ## 📫 Connect With Me
 📧 Email: prathabhattarai2@gmail.com 
 
