@@ -33,7 +33,7 @@
 
 ### ⚙️ Backend
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,java,spring,php,laravel,django,python" />
+  <img src="https://skillicons.dev/icons?i=nodejs,java,php" />
 </p>
 
 ---
