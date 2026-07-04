@@ -1,5 +1,7 @@
 <h1 align="center">Welcome to My GitHub Profile 👋</h1>
-[![committers.top badge](https://user-badge.committers.top/nepal/prathabhattarai.svg)](https://user-badge.committers.top/nepal/prathabhattarai)
+
+[![committers.top badge](https://user-badge.committers.top/nepal_public/prathabhattarai.svg)](https://user-badge.committers.top/nepal_public/prathattarai)
+
 <!-- HEADER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Pratha%20Bhattarai&fontSize=40&fontColor=ffffff&animation=fadeIn" />
