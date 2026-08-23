@@ -4,12 +4,12 @@
 
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Pratha%20Bhattarai&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:1d3557&height=200&section=header&text=Pratha%20Bhattarai&fontSize=40&fontColor=ccd6f6&animation=fadeIn" />
 </div>
 
 <!-- TYPING TEXT -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=520&lines=Frontend+Developer;UI/UX+Designer;Data+Visualization;Tech+Enthusiast" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=64ffda&center=true&vCenter=true&width=520&lines=Frontend+Developer;UI/UX+Designer;Data+Visualization;Tech+Enthusiast" />
 </div>
 
 ---
@@ -90,6 +90,33 @@
   <img src="https://skillicons.dev/icons?i=vscode,git,github,postman,chrome,npm" />
 </p>
 
+---
+
+## 📊 GitHub Stats
+
+<table>
+<tr>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api?username=prathabhattarai&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" width="400"/>
+
+</td>
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=prathabhattarai&theme=tokyonight&hide_border=true" width="400"/>
+
+</td>
+</tr>
+</table>
+
+<p align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prathabhattarai&layout=compact&theme=tokyonight&hide_border=true" width="400"/>
+
+</p>
+
+---
+
 ## 📈 Contribution Graph
 
 <picture>
@@ -98,15 +125,7 @@
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/prathabhattarai/prathabhattarai/output/github-contribution-grid-snake.svg" />
 </picture>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathabhattarai&theme=dark&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathabhattarai&theme=dark&hide_border=true" />
-</p>
+---
 
 ## 🌐 Connect With Me
 
@@ -132,5 +151,5 @@ Success is the sum of small efforts, repeated day in and day out.
 
 <!-- FOOTER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a192f,50:112240,100:1d3557&height=100&section=footer" />
 </div>
