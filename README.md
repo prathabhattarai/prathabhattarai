@@ -1,113 +1,62 @@
-<h1 align="center">Welcome to My GitHub Profile 👋</h1>
+<h1 align="center">Hi 👋, I'm Pratha Bhattarai</h1>
 
-[![committers.top badge](https://user-badge.committers.top/nepal_public/prathabhattarai.svg)](https://user-badge.committers.top/nepal_public/prathattarai)
+<p align="center">
+  <strong>Frontend Developer • UI/UX Designer • Computer Science Student</strong>
+</p>
+
+<p align="center">
+  Building responsive, user-focused web experiences with modern frontend technologies.
+</p>
+
+<p align="center">
+  <a href="https://github.com/prathabhattarai">
+    <img src="https://komarev.com/ghpvc/?username=prathabhattarai&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  </a>
+  <a href="https://user-badge.committers.top/nepal_public/prathabhattarai">
+    <img src="https://user-badge.committers.top/nepal_public/prathabhattarai.svg" alt="Committers Top Nepal" />
+  </a>
+</p>
 
 <!-- HEADER -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=200&section=header&text=Pratha%20Bhattarai&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:1e293b,100:334155&height=220&section=header&text=Pratha%20Bhattarai&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+    width="100%"
+  />
 </div>
 
-<!-- TYPING TEXT -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=000000&center=true&vCenter=true&width=520&lines=Computer+Science+Student;Aspiring+UI%2FUX+Designer;Frontend+Developer+in+Progress;Tech+Enthusiast" />
-</div>
-
----
-
-## 🌟 About Me
-- 🎓 Computer Science Student  
-- 🎨 UI/UX Designer (Learning & Practicing)  
-- 💻 Frontend Developer in progress  
-- 🚀 Passionate about building clean UI designs  
-- 🌱 Always learning new technologies  
-
----
----
-
-## 🛠️ Tech Stack
-
-### 🎨 Frontend
+<!-- TYPING -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=334155&center=true&vCenter=true&width=750&lines=Frontend+Developer;UI%2FUX+Designer;React.js+%7C+TypeScript+Developer;Computer+Science+Student;Data+%26+Visualization+Enthusiast"
+    alt="Typing SVG"
+  />
 </p>
 
 ---
 
-### ⚙️ Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,java,php" />
-</p>
+## 👩‍💻 About Me
 
----
-### 📊 Data & Visualization
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
+🎓 Computer Science Student passionate about technology and digital experiences.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Pandas-black?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-black?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/Matplotlib-black?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Seaborn-black?style=for-the-badge" />
-</p>
+💻 Frontend Developer focused on building **responsive, scalable, and user-friendly web applications**.
 
-### 🗄️ Databases & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql,docker" />
-</p>
+🎨 UI/UX Designer interested in **wireframing, prototyping, design systems, and user-centered design**.
 
-### ☁️ Hosting
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vercel,netlify" />
-</p>
+📊 Interested in **data analysis, visualization, and turning data into meaningful insights**.
 
+🚀 I enjoy transforming ideas and designs into clean, functional, and responsive interfaces.
 
-### 🛠️ Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman,notion,docker" />
-</p>
-
-## 📈 Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/prathabhattarai/prathabhattarai/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathabhattarai/prathabhattarai/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/prathabhattarai/prathabhattarai/output/github-contribution-grid-snake.svg" />
-</picture>
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prathabhattarai&theme=dark&show_icons=true&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=prathabhattarai&theme=dark&hide_border=true" />
-</p>
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://linkedin.com/in/pratha-bhattarai-7b4755379">
-    <img src="https://skillicons.dev/icons?i=linkedin" />
-  </a>
-
-  <a href="mailto:prathabhattarai2@email.com">
-    <img src="https://skillicons.dev/icons?i=gmail" />
-  </a>
-
-  <a href="https://instagram.com/prathaaa.diary">
-    <img src="https://skillicons.dev/icons?i=instagram" />
-  </a>
-</p>
+🌱 Currently expanding my skills across **frontend development, UI/UX, databases, and data visualization**.
 
 ---
 
-## ✨ Quote
-Success is the sum of small efforts, repeated day in and day out.
----
+## 💻 What I Do
 
-<!-- FOOTER -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:434343&height=100&section=footer" />
-</div>
+```text
+Frontend Development    → React.js, TypeScript, Vite, Tailwind CSS
+UI/UX Design            → Figma, FigJam, Wireframing, Prototyping
+State & API             → Zustand, Axios, REST APIs
+Data & Visualization    → Python, Pandas, NumPy, Power BI, Excel
+Database Development    → MySQL, PostgreSQL, Oracle
+Development Tools       → Git, GitHub, Docker, Postman
