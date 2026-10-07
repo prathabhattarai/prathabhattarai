@@ -110,12 +110,7 @@ const pratha = {
   <a href="https://linkedin.com/in/pratha-bhattarai-7b4755379">
     <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00F5A0" />
   </a>
-  <a href="mailto:prathabhattarai2@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=00F5A0" />
-  </a>
-  <a href="https://instagram.com/prathaaa.diary">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00F5A0" />
-  </a>
+
 </div>
 
 <br>
