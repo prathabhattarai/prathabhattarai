@@ -23,7 +23,7 @@
 
 ---
 
-## 👨‍💻 `~/about-me`
+## `~/about-me`
 
 ```bash
 pratha@dev:~$ cat about.sh
@@ -37,18 +37,13 @@ const pratha = {
   location: "Nepal 🇳🇵",
   stack: {
     frontend: ["React", "Next.js", "TypeScript", "Tailwind"],
-    backend: ["Node.js", "Express", "Java", "PHP"],
+    backend: ["Node.js", "Express", "Java", "Fastapi"],
     database: ["MongoDB", "PostgreSQL", "MySQL"],
     devops: ["Docker", "Git", "Vercel", "Netlify"],
   },
-  currentlyLearning: ["System Design", "Microservices", "DSA", "Cloud"],
   currentlyBuilding: "Something cool 👀",
-  funFact: "I debug with console.log() and I'm not ashamed.",
   motto: "Code. Break. Fix. Ship. Repeat.",
 };
-```
-
----
 
 ## ⚡ `~/tech-stack`
 
@@ -77,19 +72,6 @@ const pratha = {
 
 </div>
 
----
-
-## 🏗️ `~/how-i-build`
-
-```
-   ┌────────────┐     ┌────────────┐     ┌────────────┐     ┌────────────┐
-   │  Frontend  │ ──▶ │  REST API  │ ──▶ │  Database  │ ──▶ │   Deploy   │
-   │ React/Next │     │ Node/Java  │     │ Mongo/SQL  │     │ Docker/CI  │
-   └────────────┘     └────────────┘     └────────────┘     └────────────┘
-```
-
----
-
 ## 📊 `~/github-stats`
 
 <div align="center">
@@ -105,15 +87,12 @@ const pratha = {
   <img src="https://github-profile-trophy.vercel.app/?username=prathabhattarai&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" />
 </div>
 
----
 
 ## 📈 `~/activity`
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=prathabhattarai&bg_color=0d1117&color=00F5A0&line=00D9F5&point=ffffff&area=true&hide_border=true" />
 </div>
-
----
 
 ## 🐍 `~/contributions`
 
@@ -122,31 +101,6 @@ const pratha = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/prathabhattarai/prathabhattarai/output/github-contribution-grid-snake.svg" />
   <img alt="github contribution snake" src="https://raw.githubusercontent.com/prathabhattarai/prathabhattarai/output/github-contribution-grid-snake.svg" />
 </picture>
-
----
-
-## 🚀 `~/projects`
-
-| Project | Description | Stack |
-|:--------|:------------|:------|
-| 🔥 **Project One** | Full-stack app with JWT auth, dashboard and REST API | `React` `Node.js` `Express` `MongoDB` |
-| 💎 **Project Two** | E-commerce platform with cart, payments and admin panel | `Next.js` `PostgreSQL` `Docker` |
-| ⚡ **Project Three** | Real-time chat app using WebSockets | `Node.js` `Socket.io` `Redis` |
-| 📊 **Project Four** | Data analysis and visualization dashboard | `Python` `Pandas` `Matplotlib` |
-
-> 📌 Replace these with your real projects and add links like `[Live](url) · [Code](url)`.
-
----
-
-## 🎯 `~/goals-2026`
-
-```diff
-+ Build and deploy 3 production-level full-stack projects
-+ Master TypeScript and system design
-+ Contribute to open source
-+ Land an internship / developer role
-- Stop saying "I'll fix it later"
-```
 
 ---
 
